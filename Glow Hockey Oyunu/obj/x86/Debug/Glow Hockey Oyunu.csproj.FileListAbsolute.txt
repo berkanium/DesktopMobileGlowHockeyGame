@@ -1,0 +1,30 @@
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Glow Hockey Oyunu\Glow Hockey Oyunu\bin\Debug\Glow Hockey Oyunu.exe
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Glow Hockey Oyunu\Glow Hockey Oyunu\bin\Debug\Glow Hockey Oyunu.pdb
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow_Hockey_Oyunu.Form1.resources
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow_Hockey_Oyunu.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow Hockey Oyunu.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow Hockey Oyunu.exe
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow Hockey Oyunu.pdb
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Glow Hockey Oyunu\Glow Hockey Oyunu\bin\Debug\Glow Hockey Oyunu.exe.config
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow Hockey Oyunu.csprojResolveAssemblyReference.cache
+E:\Glow Hockey Oyunu\Glow Hockey Oyunu\bin\Debug\Glow Hockey Oyunu.exe.config
+E:\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow Hockey Oyunu.exe
+E:\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow Hockey Oyunu.pdb
+E:\Glow Hockey Oyunu\Glow Hockey Oyunu\bin\Debug\Glow Hockey Oyunu.exe
+E:\Glow Hockey Oyunu\Glow Hockey Oyunu\bin\Debug\Glow Hockey Oyunu.pdb
+E:\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow Hockey Oyunu.csprojResolveAssemblyReference.cache
+E:\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow_Hockey_Oyunu.Form1.resources
+E:\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow_Hockey_Oyunu.Properties.Resources.resources
+E:\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow Hockey Oyunu.csproj.GenerateResource.Cache
+F:\Glow Hockey Oyunu\Glow Hockey Oyunu\bin\Debug\Glow Hockey Oyunu.exe.config
+F:\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow Hockey Oyunu.exe
+F:\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow Hockey Oyunu.pdb
+F:\Glow Hockey Oyunu\Glow Hockey Oyunu\bin\Debug\Glow Hockey Oyunu.exe
+F:\Glow Hockey Oyunu\Glow Hockey Oyunu\bin\Debug\Glow Hockey Oyunu.pdb
+F:\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow Hockey Oyunu.csprojResolveAssemblyReference.cache
+F:\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow_Hockey_Oyunu.Form1.resources
+F:\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow_Hockey_Oyunu.Properties.Resources.resources
+F:\Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow Hockey Oyunu.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\5-Glow Hockey Oyunu\Glow Hockey Oyunu\bin\Debug\Glow Hockey Oyunu.exe.config
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\5-Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow Hockey Oyunu.exe
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\5-Glow Hockey Oyunu\Glow Hockey Oyunu\obj\x86\Debug\Glow Hockey Oyunu.pdb
