@@ -109,8 +109,8 @@ namespace Glow_Hockey_Oyunu
             TopHareketMerkezi();
             tmrHareket.Enabled = true;
             tmrSaniye.Enabled = true;
-            KarşıOyuncu.Text = "Ö0ZCAN :)";
-            BenimOyuncum.Text = "Berkan";
+            KarşıOyuncu.Text = "DefaultUser";
+            BenimOyuncum.Text = "My Control";
 
         }
 
